@@ -45,7 +45,3 @@ Mirror twin: `VyOS-Networks/libtacplus-map`. Canonical side is here.
 
 - README dates to 2016 (`libtacplus_map v1.0.0`). Tracking patches against the original Cumulus / Dell drop is the maintenance posture, not active development.
 - Bump `libtacplus-map1` soname on any ABI change — both `libnss-tacplus` and `libpam-tacplus` build-depend on the dev package.
-
----
-
-This file is mirrored on Confluence: [`vyos/libtacplus-map`](https://internal.confluence.vyos.com/wiki/spaces/VYOS/pages/818479396). The Confluence page also carries the per-repo audit data (settings, workflows, secret counts, hygiene) that complements this CLAUDE.md. Edit either side; resync via the documentation pipeline.
